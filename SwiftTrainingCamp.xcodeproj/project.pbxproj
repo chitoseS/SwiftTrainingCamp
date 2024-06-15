@@ -21,6 +21,7 @@
 		6F765B5F2C1DB00400223D9E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F765B622C1DB00400223D9E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6F765B692C1DB4E200223D9E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6F765B6B2C1DB56100223D9E /* Shortcut.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Shortcut.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				6F765B5F2C1DB00400223D9E /* Assets.xcassets */,
 				6F765B612C1DB00400223D9E /* Preview Content */,
 				6F765B692C1DB4E200223D9E /* README.md */,
+				6F765B6B2C1DB56100223D9E /* Shortcut.md */,
 			);
 			path = SwiftTrainingCamp;
 			sourceTree = "<group>";
